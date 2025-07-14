@@ -20,4 +20,8 @@ A simple command-line number guessing game built in Python. The user selects a d
 
 2. If correctly installed, you can run the programm using this command:
     ```bash
-   python3 game.py
+   python3 game.py```
+
+##  PREVIEW 
+
+<img width="984" height="458" alt="image" src="https://github.com/user-attachments/assets/25a59417-efac-4e1c-834a-a902033b3a22" />
