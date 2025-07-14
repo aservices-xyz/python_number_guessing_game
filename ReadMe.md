@@ -24,4 +24,4 @@ A simple command-line number guessing game built in Python. The user selects a d
 
 ##  PREVIEW 
 
-<img width="984" height="458" alt="image" src="https://github.com/user-attachments/assets/25a59417-efac-4e1c-834a-a902033b3a22" />
+<img width="1030" height="680" alt="image" src="https://github.com/user-attachments/assets/d9a13e41-bdd8-401e-862a-26f0c339a713" />
