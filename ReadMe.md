@@ -20,7 +20,7 @@ A simple command-line number guessing game built in Python. The user selects a d
 
 2. If correctly installed, you can run the programm using this command:
     ```bash
-   python3 game.py```
+   python3 game.py
 
 ##  PREVIEW 
 
